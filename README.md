@@ -21,5 +21,5 @@ I'm a Senior Back-End Developer specializing in .NET, Azure, and cloud solutions
 ---
 
 ### 📫 How to reach me:
-- Email: your.email@example.com
+- Email: soroush.kj@gmail.com
 - LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/soroosh-khajevandi/))
