@@ -59,6 +59,3 @@ I’m an experienced Senior Backend Developer with strong full-stack skills, spe
 - 🌐 [Portfolio](https://khajevandi.com)
 - 📬 [Email](mailto:soroush.kj@gmail.com)
 
----
-
-_“Driven by curiosity, secured by design.”_
