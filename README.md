@@ -45,14 +45,6 @@ I’m an experienced Senior Backend Developer with strong full-stack skills, spe
 
 ---
 
-## 📈 GitHub Stats
-
-![Soroosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorooshkj&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=sorooshkj&theme=radical)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorooshkj&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/soroosh-khajevandi)
