@@ -10,16 +10,16 @@ I'm a Senior Back-End Developer specializing in .NET, Azure, and cloud solutions
 - CI/CD & DevOps tools
 
 ## 📈 GitHub Stats
-![Soroosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=soroosh123&show_icons=true&theme=radical)
+![Soroosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorooshkj&show_icons=true&theme=radical)
 
 ## 🗓️ Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=soroosh123&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sorooshkj&theme=radical)](https://git.io/streak-stats)
 
 ## 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soroosh123&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorooshkj&layout=compact&theme=radical)
 
 ---
 
 ### 📫 How to reach me:
 - Email: soroush.kj@gmail.com
-- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/soroosh-khajevandi/))
+- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/soroosh-khajevandi](https://www.linkedin.com/in/soroosh-khajevandi/))
