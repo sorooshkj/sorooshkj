@@ -1,53 +1,49 @@
-# 👋 Hi, I'm Soroosh Khajehvandi
+# Hi Guys ✋🏻
 
-**Senior Back-End Developer** | .NET / Node.js | Cloud Enthusiast | Security Advocate  
-🌍 Based in Stockholm, Sweden  
-📧 [soroush.kj@gmail.com](mailto:soroush.kj@gmail.com) | 🌐 [khajevandi.com](https://khajevandi.com)
+You meet **Soroosh**, a **Senior Back-End Developer** with **over 10 years** of experience in software engineering.
+<br />
+With a strong focus on back-end development, cloud infrastructure, and a solid background in security and DevOps.
+<br />
+He has contributed to **event-driven** and **microservice-based** projects across **Sweden, Australia, and Iran**, delivering secure and scalable systems.
+<br />
+Currently, Soroosh works at **Court22** in Stockholm, building real-time applications and enhancing system stability using **.NET Core**, **Azure**, and **MassTransit**.
+<br />
+He is passionate about **cybersecurity**, **cloud architecture**, and solving complex technical problems, always striving for performance and security.
+<br />
+**There is still so much for me to learn, build, and share with the tech community.**
+<br />
 
----
+<details close>
+  <summary>About Soroosh's GitHub</summary>
+  <br />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sorooshkj&count_private=true&show_icons=false&include_all_commits=true&hide_title=true&theme=gruvbox&bg_color=0D1117&border_color=0D1117&text_color=ffffff" alt="GitHub Stats" />
+  </p>
+  <br />
+  <div align="left">
+      <p>Languages:</p>
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,sql,postgres,mongodb" />
+      <br /><br />
+      <p>Tools & Frameworks:</p>
+      <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,redis,graphql,react,nextjs" />
+      <br /><br />
+      <p>Security & DevOps:</p>
+      <img src="https://skillicons.dev/icons?i=jenkins,git,github,gitlab,linux" />
+      <br /><br />
+      <p>Other:</p>
+      <img src="https://skillicons.dev/icons?i=tailwind,redux,nginx,postman" />
+  </p>
+  <br /><br />
+</details>
 
-## 💼 About Me
+#### To know more about Soroosh ...
 
-I’m an experienced Senior Backend Developer with strong full-stack skills, specializing in building **scalable** and **secure** software solutions. With a Master's in Software Engineering and **Information Security** from **Stockholm University**, I bring deep technical knowledge and a passion for cybersecurity, cloud architecture, and modern development practices.
+🔥 [Personal Site](https://khajevandi.com)
 
-- 🔐 Security Advocate | OWASP Top 10, ISO 27001
-- ☁️ Cloud & DevOps | Azure, AWS, Docker, Kubernetes, Terraform
-- 💬 Strong communicator, team mentor, and resilient problem-solver
-- 📚 Author of a book on mobile data processing
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-076678?style=flat&logo=Linkedin&logoColor=fbf1c7)](https://linkedin.com/in/soroosh-khajevandi)
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/sorooshkj)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:soroush.kj@gmail.com)
 
----
+<br />
 
-## 🚀 Tech Stack
-
-**Backend:**  
-`.NET Core`, `Node.js (TypeScript)`, `WebAPI`, `gRPC`, `SQL Server`, `PostgreSQL`, `MongoDB`, `CosmosDB`, `Redis`, `RabbitMQ`, `MassTransit`, `Kafka`
-
-**Frontend:**  
-`React.js`, `Next.js`, `React Native`, `TypeScript`, `Redux`, `TailwindCSS`, `ASP.NET WebForms`
-
-**Cloud & DevOps:**  
-`Azure Functions`, `App Service`, `API Management`, `Service Bus`, `AWS (Kubernetes, Lambda)`, `Docker`, `Terraform`, `CI/CD (Azure Pipelines, GitHub Actions)`
-
-**Security Tools:**  
-`Metasploit`, `Wireshark`, `Volatility`, `OpenVAS`, `AlienVault`, `Shodan`
-
-**Architecture:**  
-`Microservices`, `Event-Driven Systems`, `Domain-Driven Design`, `Clean Architecture`, `CQRS`
-
----
-
-## 🔧 Key Projects
-
-- **Real-Time Gaming Platform** – Built with .NET Core, Microservices, and Azure CI/CD, improving deployment speed and system stability.
-- **Scalable Food Ordering System** – Event-driven microservices with Docker & Kubernetes on AWS, cutting order processing time by 35%.
-- **Secure Logging System** – Tamper-proof logging for digital forensics at Stockholm University, enhancing security compliance.
-- **High-Performance Telecom Service** – Handled 20M+ daily records using .NET Core, Node.js, GraphQL.
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/soroosh-khajevandi)
-- 🌐 [Portfolio](https://khajevandi.com)
-- 📬 [Email](mailto:soroush.kj@gmail.com)
-
+[![Soroosh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sorooshkj&bg_color=0d1117&color=6e6e6e&line=00572a&point=39d353&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
