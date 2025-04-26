@@ -18,7 +18,7 @@ He is passionate about **cybersecurity**, **cloud architecture**, and solving co
   <br />
   <div align="left">
       <p>Languages:</p>
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,sql,postgres,mongodb" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,postgres,mongodb" />
       <br /><br />
       <p>Tools & Frameworks:</p>
       <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,redis,graphql,react,nextjs" />
