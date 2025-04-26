@@ -20,7 +20,7 @@ He is passionate about **cybersecurity**, **cloud architecture**, and solving co
     <img src="https://github-readme-stats.vercel.app/api?username=sorooshkj&count_private=true&show_icons=false&include_all_commits=true&hide_title=true&theme=gruvbox&bg_color=0D1117&border_color=0D1117&text_color=ffffff" alt="GitHub Stats" />
   </p>
   <br />
-  <img align="right" src="https://github.com/Ashutosh00710/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
+  <img align="right" src="https://github.com/sorooshkj/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
   <br />
   <div align="left">
       <p>Languages:</p>
