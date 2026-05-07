@@ -34,7 +34,7 @@ He is passionate about **cybersecurity**, **cloud architecture**, and solving co
 
 #### To know more about Soroosh ...
 
-🔥 [Personal Site]([https://khajevandi.com](https://www.soroosh.se/))
+🔥 [Personal Site]([https://khajevandi.com](https://www.soroosh.se)])
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-076678?style=flat&logo=Linkedin&logoColor=fbf1c7)](https://linkedin.com/in/soroosh-khajevandi)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/sorooshkj)
